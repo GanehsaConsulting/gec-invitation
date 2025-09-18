@@ -57,7 +57,7 @@ const ImageSlideshow = ({ images, currentImageIndex, isFullscreen = false, child
     }
 
     return (
-        <div className="relative w-full h-full overflow-hidden" {...props}>
+        <div className="relative w-full h-full overflow-hidden flex items-center justify-center" {...props}>
             <AnimatePresence mode="sync">
                 <motion.div
                     key={`main-${currentImageIndex}`}

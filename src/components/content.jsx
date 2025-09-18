@@ -214,21 +214,21 @@ export const Content = () => {
                         Pesan
                     </p>
 
-                    <div className="p-3 bg-black/50 rounded-2xl flex flex-col gap-2 justify-start !text-left">
+                    <div className="p-3 bg-black/50 rounded-2xl flex flex-col gap-2 justify-start !text-left w-full">
                         <p className="text-sm font-semibold">
                             <span className="block font-bold text-base">Andi Wijaya</span>
                             Selamat & sukses untuk Grand Opening GO Space, semoga jadi wadah kolaborasi yang bermanfaat!
                         </p>
                     </div>
 
-                    <div className="p-3 bg-black/50 rounded-2xl flex flex-col gap-2 justify-start !text-left">
+                    <div className="p-3 bg-black/50 rounded-2xl flex flex-col gap-2 justify-start !text-left w-full">
                         <p className="text-sm font-semibold">
                             <span className="block font-bold text-base">Rina Putri</span>
                             Terima kasih atas undangannya, saya akan hadir di acara Open House sore hari.
                         </p>
                     </div>
 
-                    <div className="p-3 bg-black/50 rounded-2xl flex flex-col gap-2 justify-start !text-left">
+                    <div className="p-3 bg-black/50 rounded-2xl flex flex-col gap-2 justify-start !text-left w-full">
                         <p className="text-sm font-semibold">
                             <span className="block font-bold text-base">Budi Santoso</span>
                             Selamat atas pembukaan GO Space! Semoga jadi pusat inovasi baru di kota kita.

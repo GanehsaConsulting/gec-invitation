@@ -23,7 +23,7 @@ const MainContent = ({ isFullscreen, onOpenClick }) => {
 
     return (
         <motion.div
-            className="absolute bottom-0 p-6 flex flex-col items-center justify-center text-center space-y-2"
+            className="absolute bottom-0 p-6 flex flex-col items-center justify-center text-center space-y-2 "
             variants={contentVariants}
             animate={isFullscreen ? "hidden" : "visible"}
             initial="visible"
